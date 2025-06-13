@@ -52,23 +52,22 @@ src/
 
 ## Como rodar o projeto 🏃‍♂️
 
-1. Clone o repositório:
+1. Clone o repositório 📥
 
 ```bash
 git clone https://github.com/Paulo-Pacheco-Junior/minhas-vendas-railway-react.git
 cd minhas-vendas-railway-react
-
 ```
-2. Instale as dependências:
+2. Instale as dependências 📦
    
-```bash
+```
 npm install
 # ou
 yarn
 ```
-3. Inicie a aplicação:
+3. Inicie a aplicação 🚀 
 
-```bash
+```
 npm run dev
 # ou
 yarn dev
