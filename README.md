@@ -36,6 +36,7 @@
 
 ## Estrutura de pastas 📁
 
+```
 src/
 ├── components/ # Componentes reutilizáveis (Button, Input, LinkBtn, etc)
 ├── contexts/ # Contexto do usuário
@@ -45,6 +46,7 @@ src/
 ├── styles/ # Estilos globais e estilizações específicas
 ├── themes/ # Configuração do tema para styled-components
 └── App.tsx # Componente raiz com Providers e roteamento
+```
 
 ---
 
@@ -58,13 +60,15 @@ cd minhas-vendas-railway-react
 
 ```
 2. Instale as dependências:
-```
+   
+```bash
 npm install
 # ou
 yarn
 ```
 3. Inicie a aplicação:
-```
+
+```bash
 npm run dev
 # ou
 yarn dev
